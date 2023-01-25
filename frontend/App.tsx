@@ -19,7 +19,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>{msg}</Text>
+      <Text>{FitSocial}</Text>
       <StatusBar style="auto" />
     </View>
   );
