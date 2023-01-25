@@ -8,7 +8,7 @@
 
 ## Progress and Issues
 
-Our backend has got familiar with the Rust language, Frontend has created some rough drafts of the UI
+Our backend has got familiar with the Rust language, Frontend has created some rough drafts of the UI, Wrote down some pseudocode, have a functional app. No current issues just got to start implementing the app now.
 
 ## Next Week Goals 
 
